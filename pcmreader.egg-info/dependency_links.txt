@@ -1,0 +1,1 @@
+https://github.com/ryechus/python-audio-tools/tarball/master#egg=audiotools

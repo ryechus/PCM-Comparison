@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pcmreader
+Version: 0.1
+Summary: This program takes two files and compares	  
+their PCM frames over the first second
+Home-page: UNKNOWN
+Author: Michael Hardin
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,10 @@
+e3.py
+pcmreader.py
+setup.cfg
+setup.py
+pcmreader.egg-info/PKG-INFO
+pcmreader.egg-info/SOURCES.txt
+pcmreader.egg-info/dependency_links.txt
+pcmreader.egg-info/entry_points.txt
+pcmreader.egg-info/requires.txt
+pcmreader.egg-info/top_level.txt
